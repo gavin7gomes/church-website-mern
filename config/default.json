@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://gavinGomes7:gavinGomes7@church-site-shard-00-00.rijgw.mongodb.net:27017,church-site-shard-00-01.rijgw.mongodb.net:27017,church-site-shard-00-02.rijgw.mongodb.net:27017/<dbname>?ssl=true&replicaSet=atlas-de8u8q-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
